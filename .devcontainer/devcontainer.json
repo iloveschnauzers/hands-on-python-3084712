@@ -29,7 +29,7 @@
 		"ms-python.python",
 		"ms-python.vscode-pylance"
 	],
-	//	"remoteUser": "vscode",
+	"remoteUser": "vscode",
 	"onCreateCommand": "echo PS1='\"$ \"' >> ~/.bashrc" //Set Terminal Prompt to $
 	// copied from codespaces-jupyter to open in jupyterlab
 	,
